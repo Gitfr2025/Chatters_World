@@ -71,6 +71,8 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
-Assets\SerializedUdonProgams\*
-.vsconfig
-Packages\vpm-manifest.json
+# Unity Project Files
+Assets/Samples
+Assets/SerializedUdonPrograms
+Assets/SerializedUdonPrograms.meta
+Assets/Samples.meta
